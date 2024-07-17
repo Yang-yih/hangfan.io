@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>博溢</title><link>https://Yang-yih.github.io/hangfan.io</link><description>创造梦想与价值</description><copyright>博溢</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/175016187?s=400&amp;u=520783cf156104b823b086cdbf07ae07aaa1b260&amp;v=4</url><title>avatar</title><link>https://Yang-yih.github.io/hangfan.io</link></image><lastBuildDate>Wed, 17 Jul 2024 03:12:39 +0000</lastBuildDate><managingEditor>博溢</managingEditor><ttl>60</ttl><webMaster>博溢</webMaster><item><title>PY知识点-1</title><link>https://Yang-yih.github.io/hangfan.io/post/PY-zhi-shi-dian--1.html</link><description>### 列表的创建、访问、修改、删除、遍历&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>博溢</title><link>https://Yang-yih.github.io/hangfan.io</link><description>创造梦想与价值</description><copyright>博溢</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/175016187?s=400&amp;u=520783cf156104b823b086cdbf07ae07aaa1b260&amp;v=4</url><title>avatar</title><link>https://Yang-yih.github.io/hangfan.io</link></image><lastBuildDate>Wed, 17 Jul 2024 03:20:12 +0000</lastBuildDate><managingEditor>博溢</managingEditor><ttl>60</ttl><webMaster>博溢</webMaster><item><title>PY知识点-2 .</title><link>https://Yang-yih.github.io/hangfan.io/post/PY-zhi-shi-dian--2%20..html</link><description>### 字符串定义与转义字符&#13;
+&#13;
+在 Python 中，字符串可以用单引号 `'` 或双引号 `'` 定义，例如：&#13;
+&#13;
+```python&#13;
+str1 = 'Hello'&#13;
+str2 = 'World'&#13;
+```&#13;
+&#13;
+转义字符用于在字符串中表示一些特殊字符，如换行符、制表符等。</description><guid isPermaLink="true">https://Yang-yih.github.io/hangfan.io/post/PY-zhi-shi-dian--2%20..html</guid><pubDate>Wed, 17 Jul 2024 03:17:57 +0000</pubDate></item><item><title>PY知识点-1</title><link>https://Yang-yih.github.io/hangfan.io/post/PY-zhi-shi-dian--1.html</link><description>### 列表的创建、访问、修改、删除、遍历&#13;
 &#13;
 #### 创建列表&#13;
 &#13;
